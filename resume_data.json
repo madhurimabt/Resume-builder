@@ -1,0 +1,17 @@
+{
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "123-456-7890",
+    "summary": "passionate software developer",
+    "skills": [
+        "python",
+        "java",
+        "html",
+        "css"
+    ],
+    "experience": [
+        "software engineer at xyz",
+        " intern at abc"
+    ],
+    "education": "b.sc in computer science"
+}
